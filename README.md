@@ -1,6 +1,6 @@
 # Teste de Performance com Jmeter
 
-Testes de performance de compra de passagem de avião utilizando o site: https://www.blazedemo.com
+Testes de performance de compra de passagem aérea utilizando o site: https://www.blazedemo.com
 
 ## Como executar aplicação
 
@@ -40,4 +40,4 @@ Para executar os testes é necessário clonar o repositório contendo os arquivo
 * -o: Onde salvar o relatório
 
 ## Observações extras
-Dentro do diretório possui uma pasta de nome "Relatórios" contendo dois arquivos csv com dados dos testes, o resultado do teste executado via linha de comando com extenção .jtl, análise final e mais uma pasta relatorio com o restante dos dados gerados via linha de comando.
+Dentro do diretório possui uma pasta de nome "Relatórios" contendo dois arquivos csv com dados dos testes, o resultado do teste executado via linha de comando com extenção .jtl, relatório final e mais uma pasta relatorio com o restante dos dados gerados via linha de comando.
